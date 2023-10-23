@@ -1,0 +1,22 @@
+{
+  "name": "8-appi-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "cors": "2.8.5",
+    "crypto": "1.0.1",
+    "zod": "^3.22.4"
+  }
+}
